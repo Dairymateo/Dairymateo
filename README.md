@@ -39,9 +39,9 @@ Outside tech, 🎮 I love playing video games, 🎵 listening to music, and delv
 ## My Game Development Projects (My Main Work!)
 *(This is your showcase! Make sure these sections are rich with visuals and details.)*
 
-### [Project Name 1]
+### Pixel Fighters
 <div align="center">
-  <img src="[Link to screenshot or GIF of Project 1]" alt="Screenshot/GIF of Project 1" width="700"/>
+  <img src="https://github.com/Dairymateo/Dairymateo/blob/main/image.png" width="700"/>
   <br>
   <br>
   <p>[**Concise, engaging description of Project 1, emphasizing what makes it unique, your specific contributions, and the technologies used (e.g., Unity, C#).**]</p>
