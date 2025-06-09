@@ -16,7 +16,7 @@ I specialize in using **Unity** to bring game ideas to life. I have several exci
 🌱 **Beyond Gaming, I'm currently learning ...**
 * Nest.js
 * React
-* .NET (frameworks)
+* .NET 
 
 💻 **I have experience with programming languages including:**
 * C#
