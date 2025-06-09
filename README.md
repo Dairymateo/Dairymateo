@@ -32,12 +32,11 @@ I specialize in using **Unity** to bring game ideas to life. I have several exci
 
 Outside tech, 🎮 I love playing video games, 🎵 listening to music, and delving into adventure games. My favorites include **Resident Evil 3, 4, and 8**, **Call of Duty: Modern Warfare**, **Black Myth: Wukong**, **Devil May Cry**, and adventure titles like **Jedi: Fallen Order and Survivor**. In music, I enjoy rap and electronic genres.
 
-📫 **Reach out to me at:** [Your Email Address]
+📫 **Reach out to me at:** fmh08512@gmail.com
 
 ---
 
 ## My Game Development Projects (My Main Work!)
-*(This is your showcase! Make sure these sections are rich with visuals and details.)*
 
 ### Pixel Fighters
 <div align="center">
@@ -45,7 +44,7 @@ Outside tech, 🎮 I love playing video games, 🎵 listening to music, and delv
   <br>
   <br>
   <p>[**Concise, engaging description of Project 1, emphasizing what makes it unique, your specific contributions, and the technologies used (e.g., Unity, C#).**]</p>
-  <a href="[Link to Project 1's repository]" target="_blank">View Project on GitHub</a> | <a href="[Link to live demo/game download if available]" target="_blank">Play/Download Game</a>
+  <a href="[Link to Project 1's repository]" target="_blank">View Project on GitHub</a>
 </div>
 <br>
 
@@ -97,22 +96,4 @@ Outside tech, 🎮 I love playing video games, 🎵 listening to music, and delv
   <a href="[Link to your YouTube]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   </p>
 
----
 
-
-**Key Changes:**
-
-* **"My Principal Interest: Video Game Development"** section moved higher and made more prominent in the "About me" to immediately state your focus.
-* **"My Game Development Projects (My Main Work!)"** section is now the first major section after your introduction, clearly indicating its importance.
-* **Skills Section Restructured:**
-    * Added a new "Game Development Tools & Engines" subsection at the top of skills.
-    * "Other Languages," "Other Frameworks & Technologies," and "Tools" follow to differentiate your primary game dev skills from your broader software engineering knowledge.
-* **Increased Image Size for Projects:** Changed `width="600"` to `width="700"` for project images to give them more visual presence.
-
-**Remember to:**
-
-1.  **Replace all `[placeholders]`** with your actual information and links.
-2.  **Ensure your project descriptions are rich and engaging.** Since this is your main work, really sell each game!
-3.  **Upload your project screenshots/GIFs** to a reliable host (like a dedicated `assets` folder in your GitHub repo or an image hosting service) and update the `src` attributes.
-
-This structure should effectively convey your primary focus on game development to anyone visiting your GitHub profile.
