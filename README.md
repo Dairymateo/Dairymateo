@@ -41,7 +41,7 @@ Outside tech, 🎮 I love playing video games, 🎵 listening to music, and delv
 
 ### Pixel Fighters
 <div align="center">
-  <img src="<img src="https://github.com/Dairymateo/Dairymateo/blob/main/image.png" width="700"/>" width="700"/>
+  <img src="https://github.com/Dairymateo/Dairymateo/blob/main/image.png" width="700"/>"
   <img src="https://github.com/Dairymateo/Dairymateo/blob/main/image.png" width="700"/>
   <br>
   <br>
