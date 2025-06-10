@@ -43,14 +43,16 @@ Outside tech, 🎮 I love playing video games, 🎵 listening to music, and delv
   <img src="https://github.com/Dairymateo/Dairymateo/blob/main/image.png" width="700"/>"
   <br>
   <br>
-  <p>[**Concise, engaging description of Project 1, emphasizing what makes it unique, your specific contributions, and the technologies used (e.g., Unity, C#).**]</p>
-  <a href="[Link to Project 1's repository]" target="_blank">View Project on GitHub</a>
+  <p>This is an action-packed video game developed in Unity that blends fast-paced melee combat with platforming mechanics, drawing strong inspiration from Japanese culture. Presented in a 2D perspective, it delivers intense sword duels and thrilling encounters with enemies, combining hack-and-slash gameplay with tactical decision-making.
+
+Focused on rhythm, speed, and strategic depth, the game aims to reinvent the fighting genre by offering a challenging and addictive experience. Its mature setting and gore-heavy aesthetic are crafted for players aged 16 and up, appealing to fans of intense, skill-based combat games.</p>
+  <a href="https://github.com/Dairymateo/ProyectoVideojuegos.git" target="_blank">View Project on GitHub</a>
 </div>
 <br>
 
-### [Project Name 2]
+### Ballon Attack
 <div align="center">
-  <img src="[Link to screenshot or GIF of Project 2]" alt="Screenshot/GIF of Project 2" width="700"/>
+  <img src="https://github.com/Dairymateo/Dairymateo/blob/main/Imagen%20de%20WhatsApp%202025-06-09%20a%20las%2022.44.02_0b5899f0.jpg" alt="Screenshot of Project 2" width="700"/>
   <br>
   <br>
   <p>[**Concise, engaging description of Project 2, emphasizing what makes it unique, your specific contributions, and the technologies used (e.g., Unity, C#).**]</p>
