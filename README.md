@@ -55,8 +55,8 @@ Focused on rhythm, speed, and strategic depth, the game aims to reinvent the fig
   <img src="https://github.com/Dairymateo/Dairymateo/blob/main/Imagen%20de%20WhatsApp%202025-06-09%20a%20las%2022.44.02_0b5899f0.jpg" alt="Screenshot of Project 2" width="700"/>
   <br>
   <br>
-  <p>[**Concise, engaging description of Project 2, emphasizing what makes it unique, your specific contributions, and the technologies used (e.g., Unity, C#).**]</p>
-  <a href="[Link to Project 2's repository]" target="_blank">View Project on GitHub</a> | <a href="[Link to live demo/game download if available]" target="_blank">Play/Download Game</a>
+  <p>This is a 2D side-scrolling shooter developed in Unity, featuring balloon-like airships with unique personalities. The player controls a flying character that must dodge obstacles and enemy fire while launching projectiles to defeat opponents. Set against a bright, cartoonish sky full of clouds, the game offers fast-paced, casual action with a focus on precision and timing. A health bar system and level progression add a layer of challenge, making it ideal for quick, engaging play sessions</p>
+  <a href="https://dairymateo67.itch.io/balloon-attack" target="_blank">Play Game</a>
 </div>
 <br>
 
@@ -93,9 +93,10 @@ Focused on rhythm, speed, and strategic depth, the game aims to reinvent the fig
 
 ## Check out my Social Media
 <p>
-  <a href="[Link to your Instagram]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="[Link to your TikTok]" target="_blank"><img src="https://img.shields.io/badge/TikTok-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-  <a href="[Link to your YouTube]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.instagram.com/fmh0218?igsh=MXhicnVhM214b2s1Nw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.twitch.tv/dairymateo_67" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+</a>
+
   </p>
 
 
