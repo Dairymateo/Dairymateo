@@ -50,7 +50,7 @@ Focused on rhythm, speed, and strategic depth, the game aims to reinvent the fig
 </div>
 <br>
 
-### Ballon Attack
+### Balloon Attack
 <div align="center">
   <img src="https://github.com/Dairymateo/Dairymateo/blob/main/Imagen%20de%20WhatsApp%202025-06-09%20a%20las%2022.44.02_0b5899f0.jpg" alt="Screenshot of Project 2" width="700"/>
   <br>
